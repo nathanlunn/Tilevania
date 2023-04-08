@@ -43,7 +43,7 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
+  spriteExtrude: 0
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
@@ -131,8 +131,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e035a3b3b58bfa46a33b9cea41625b1
-      internalID: -1983732593
+      spriteID: c5edb26a39a73844da23cd7e9bf55793
+      internalID: -738676673
       vertices: []
       indices: 
       edges: []
@@ -152,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bd6aaacfe5100d74487c3aa244f05804
-      internalID: -1710523151
+      spriteID: 8a26417253ed170479571e18e469fb66
+      internalID: -367240584
       vertices: []
       indices: 
       edges: []
@@ -173,8 +173,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cec7e5734d2105b4bbf8bf4b4830f191
-      internalID: 1312656403
+      spriteID: 1d824ec5d0304e84bb97a5a58243c76f
+      internalID: 1703816135
       vertices: []
       indices: 
       edges: []
@@ -194,8 +194,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4b791d72b83c12944a20383a0cce1f0d
-      internalID: -1541843365
+      spriteID: 9c8b1685da42618448bdd18ecf5458c3
+      internalID: 250913648
       vertices: []
       indices: 
       edges: []
@@ -215,8 +215,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 522c703c1e7ff994ead02e2758573ac1
-      internalID: 319375315
+      spriteID: 31a0e7317f3b0f840ba629659304095d
+      internalID: 1077269065
       vertices: []
       indices: 
       edges: []
@@ -236,8 +236,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c00d3ddf8fbb97245b90995b16402326
-      internalID: 1400621772
+      spriteID: 747181d0c35446f4c903fd3aab4e8b84
+      internalID: 1938668161
       vertices: []
       indices: 
       edges: []
@@ -257,8 +257,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ad805715bbb29d342a930bb45f71f9e9
-      internalID: -917489090
+      spriteID: 27624df45cf7f4448b88073482dc3ce0
+      internalID: -206541801
       vertices: []
       indices: 
       edges: []
@@ -278,8 +278,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a191744bd76359e489d519d0a9d6a9f0
-      internalID: -2139792091
+      spriteID: c9e6594e471982b478535c674563451d
+      internalID: 235101159
       vertices: []
       indices: 
       edges: []
@@ -299,8 +299,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6c342b82e3f5f8e43bd6c5e7176c3193
-      internalID: -1875322346
+      spriteID: de80bae5272ae3f4aa9b2cfbaa48f216
+      internalID: 1229647547
       vertices: []
       indices: 
       edges: []
@@ -320,8 +320,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ddcbf5c4ff0fcc34da8230acf37671a1
-      internalID: -420676744
+      spriteID: e21d40910271ebe428cd33438f39e4a9
+      internalID: 130043572
       vertices: []
       indices: 
       edges: []
@@ -330,7 +330,7 @@ TextureImporter:
       name: SPA_Player_Ginger_10
       rect:
         serializedVersion: 2
-        x: 37
+        x: 38
         y: 120
         width: 32
         height: 32
@@ -341,8 +341,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 85249a9158f3d694e995fcb8db221f0b
-      internalID: 1845120550
+      spriteID: 9e23e445c50fa284baa037d8c46cc742
+      internalID: -1409224310
       vertices: []
       indices: 
       edges: []
@@ -362,8 +362,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2926845bd0ce2b641a5432ecb7220140
-      internalID: -492779479
+      spriteID: c9d8866c41f2bc04984d40e5982d07f7
+      internalID: 190966228
       vertices: []
       indices: 
       edges: []
@@ -383,8 +383,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b4137f94ee75548459bd40cd21945fd5
-      internalID: -1971377206
+      spriteID: 5c33220f83361144e91ed436c95fdec0
+      internalID: 1552551715
       vertices: []
       indices: 
       edges: []
@@ -393,7 +393,7 @@ TextureImporter:
       name: SPA_Player_Ginger_13
       rect:
         serializedVersion: 2
-        x: 153
+        x: 152
         y: 120
         width: 32
         height: 32
@@ -404,8 +404,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 24eac080cb99eaa4591f603128a644f1
-      internalID: -462809603
+      spriteID: e739ab65eb8afb64eadd265d55150c94
+      internalID: -1326188789
       vertices: []
       indices: 
       edges: []
@@ -425,8 +425,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 246d2c973cf770a4498f6153897017ed
-      internalID: -1106718843
+      spriteID: 58b4acf82f32238468c7e2538d428b5a
+      internalID: -785247867
       vertices: []
       indices: 
       edges: []
@@ -446,8 +446,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 774bb1d415c991848936e3ef0b9b1301
-      internalID: 1172974258
+      spriteID: 482389534c552d341b8a1e831bcecdfe
+      internalID: 307372348
       vertices: []
       indices: 
       edges: []
@@ -467,8 +467,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 71e0c76ae463b4a4e926aed98dc5ca72
-      internalID: -1471913749
+      spriteID: b36956162c1e8874e80c3b9f2df585f7
+      internalID: -2001978119
       vertices: []
       indices: 
       edges: []
@@ -488,8 +488,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c428861d0127b5a469fc4ea3a8f3fe9b
-      internalID: 491812040
+      spriteID: 0acd2e2ec0edefb448a9a6a1f8981f9d
+      internalID: 1204687063
       vertices: []
       indices: 
       edges: []
@@ -509,8 +509,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a77e813c84cf6d42a314b947a303c6f
-      internalID: -1059187666
+      spriteID: b4dccf8a9b942624bb59c35d57e4d872
+      internalID: 803830772
       vertices: []
       indices: 
       edges: []
@@ -530,8 +530,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 26fb9032e314793479aff27fa1b34a71
-      internalID: -604031331
+      spriteID: a493f2bb085f63940b512eec60903616
+      internalID: 666669796
       vertices: []
       indices: 
       edges: []
@@ -551,8 +551,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8e6cd6342eda6b94d98bccd52f420fc9
-      internalID: 1497567681
+      spriteID: cc1bcd696b4ebe14db8f2bdff0ffb314
+      internalID: 15945052
       vertices: []
       indices: 
       edges: []
@@ -572,8 +572,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae47afa4eb218984581ccf838205b3bf
-      internalID: 1179659965
+      spriteID: 7aa43aa9d51192a41bfef991e10c217c
+      internalID: -665996595
       vertices: []
       indices: 
       edges: []
@@ -593,8 +593,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e0030e813d5258740975ce59ba3fa96e
-      internalID: -399685290
+      spriteID: 0aec8e11740793f4482b2a9b22f3e3fb
+      internalID: 1243526033
       vertices: []
       indices: 
       edges: []
@@ -614,8 +614,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9907d005549c3c1479d22d38385be7a4
-      internalID: 597232296
+      spriteID: 11a6509fd93cb734aa253a483032a29a
+      internalID: 1989704033
       vertices: []
       indices: 
       edges: []
@@ -635,8 +635,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cf28589302b6b3e4baab4fa606e26498
-      internalID: 1357642379
+      spriteID: 8369945832afec643ad230fbf5997d7f
+      internalID: 626759347
       vertices: []
       indices: 
       edges: []
@@ -656,8 +656,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9cd9a23f3810fa149a28876d27972a5d
-      internalID: 2128622809
+      spriteID: 447e2056f8ae29446b769ebfef5b9b32
+      internalID: 124581259
       vertices: []
       indices: 
       edges: []
@@ -677,8 +677,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 371ddced95ea29d43a1568199439f56e
-      internalID: 781567192
+      spriteID: c493e26760ea4b442a504ccce6ee0b44
+      internalID: 604490142
       vertices: []
       indices: 
       edges: []
@@ -698,8 +698,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55666889f90b1684da19df5b919d2e17
-      internalID: -936982522
+      spriteID: 890f2095ff4475d42a7b09327438c754
+      internalID: -806641758
       vertices: []
       indices: 
       edges: []
@@ -719,8 +719,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5a58b797b34a2964aa00ce29a3a6a20f
-      internalID: -365584030
+      spriteID: 4800cc32ac7a27f4f9c78ca59b6e055b
+      internalID: -1011605860
       vertices: []
       indices: 
       edges: []
@@ -736,35 +736,35 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      SPA_Player_Ginger_0: -1983732593
-      SPA_Player_Ginger_1: -1710523151
-      SPA_Player_Ginger_10: 1845120550
-      SPA_Player_Ginger_11: -492779479
-      SPA_Player_Ginger_12: -1971377206
-      SPA_Player_Ginger_13: -462809603
-      SPA_Player_Ginger_14: -1106718843
-      SPA_Player_Ginger_15: 1172974258
-      SPA_Player_Ginger_16: -1471913749
-      SPA_Player_Ginger_17: 491812040
-      SPA_Player_Ginger_18: -1059187666
-      SPA_Player_Ginger_19: -604031331
-      SPA_Player_Ginger_2: 1312656403
-      SPA_Player_Ginger_20: 1497567681
-      SPA_Player_Ginger_21: 1179659965
-      SPA_Player_Ginger_22: -399685290
-      SPA_Player_Ginger_23: 597232296
-      SPA_Player_Ginger_24: 1357642379
-      SPA_Player_Ginger_25: 2128622809
-      SPA_Player_Ginger_26: 781567192
-      SPA_Player_Ginger_27: -936982522
-      SPA_Player_Ginger_28: -365584030
-      SPA_Player_Ginger_3: -1541843365
-      SPA_Player_Ginger_4: 319375315
-      SPA_Player_Ginger_5: 1400621772
-      SPA_Player_Ginger_6: -917489090
-      SPA_Player_Ginger_7: -2139792091
-      SPA_Player_Ginger_8: -1875322346
-      SPA_Player_Ginger_9: -420676744
+      SPA_Player_Ginger_0: -738676673
+      SPA_Player_Ginger_1: -367240584
+      SPA_Player_Ginger_10: -1409224310
+      SPA_Player_Ginger_11: 190966228
+      SPA_Player_Ginger_12: 1552551715
+      SPA_Player_Ginger_13: -1326188789
+      SPA_Player_Ginger_14: -785247867
+      SPA_Player_Ginger_15: 307372348
+      SPA_Player_Ginger_16: -2001978119
+      SPA_Player_Ginger_17: 1204687063
+      SPA_Player_Ginger_18: 803830772
+      SPA_Player_Ginger_19: 666669796
+      SPA_Player_Ginger_2: 1703816135
+      SPA_Player_Ginger_20: 15945052
+      SPA_Player_Ginger_21: -665996595
+      SPA_Player_Ginger_22: 1243526033
+      SPA_Player_Ginger_23: 1989704033
+      SPA_Player_Ginger_24: 626759347
+      SPA_Player_Ginger_25: 124581259
+      SPA_Player_Ginger_26: 604490142
+      SPA_Player_Ginger_27: -806641758
+      SPA_Player_Ginger_28: -1011605860
+      SPA_Player_Ginger_3: 250913648
+      SPA_Player_Ginger_4: 1077269065
+      SPA_Player_Ginger_5: 1938668161
+      SPA_Player_Ginger_6: -206541801
+      SPA_Player_Ginger_7: 235101159
+      SPA_Player_Ginger_8: 1229647547
+      SPA_Player_Ginger_9: 130043572
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
