@@ -15757,6 +15757,32 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &509777488 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7517603529881776541, guid: a3f79f8fd5cf41045821a3d938c61790, type: 3}
+  m_PrefabInstance: {fileID: 7517603529577588685}
+  m_PrefabAsset: {fileID: 0}
+--- !u!50 &509777492
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 509777488}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 4
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -15852,6 +15878,7 @@ GameObject:
   - component: {fileID: 713405520}
   - component: {fileID: 713405522}
   - component: {fileID: 713405521}
+  - component: {fileID: 713405523}
   m_Layer: 0
   m_Name: PlatformTilemap
   m_TagString: Untagged
@@ -21507,6 +21534,22 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!19719996 &713405523
+TilemapCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 713405519}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_MaximumTileChangeCount: 1000
+  m_ExtrusionFactor: 0
 --- !u!1 &872476802
 GameObject:
   m_ObjectHideFlags: 0
